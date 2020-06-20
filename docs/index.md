@@ -17,22 +17,54 @@ Turing Club hopes to make this an annual event, much like other Treasure Hunts, 
   - [Gowri](https://github.com/gowrianil)
   - [James](https://github.com/james471)
   - [Madhumati](https://github.com/madhums511)
-
+- Mac version built by Anshuman
 - Art Competition Pieces
   - [Shivali](https://www.instagram.com/m0tifs_)
   - [Saloni](https://instagram.com/films_on_paper)
-
 - Night Sky Images
   - Kaustubh
   - [Amit](https://www.instagram.com/amityogi.photography/)
-
 - Murder Mystery Team
+- Test Image by Maithily
 
 ## Download the game now
 
-1. Windows - Not yet up
-2. Linux - Not yet up
-3. MacOS - Not yet up
+### Windows
+
+1. Download the app from 
+2. Double-Click the downloaded file to run it
+   - In case Windows Defender warns about an unknown program running, do not worry. Simply click `advanced options` and then `Run anyway`
+3. Enjoy!
+
+### Linux
+
+1. Update your machine to the newest versions
+   - Usually `sudo _package manager_ update` followed by `sudo _package manager_ upgrade`
+      - For Ubuntu (and derivatives), Debian and Derivatives - `sudo apt update` followed by `sudo apt upgrade`
+2. Download the file according to your OS
+   - Ubuntu 20.04, Kali(Updated to latest), openSUSE Tumbleweed - Use version 29 below
+   - Debian - Use version 28 below
+   - Ubuntu 18.04 - Use version 27 below. (And update your OS whenever you are free)
+   - Others - Run `ldd --version` and use the highest version lower than the version displayed.
+3. Install `python3-tk` using command line.
+   - In Ubuntu, run `sudo apt install python3-tk -y`
+   - _Technically, you just need `fontconfig-config` and `libxcb1`, but it is easier to just install python3-tk.
+4. Idk if double clicking the file will work or not, but you can always run it from the command line. `cd path/to/file` and then `./filename`.
+5. And FINALLY, Enjoy!
+
+#### Download links -
+
+| Version | Link |
+| ------- | ---- |
+| 27      | h    |
+| 28      | h    |
+| 29      | h    |
+
+### MacOS
+
+1. Download the app from here
+2. Double Click to run OR `cd path/to/file` and then `./filename`
+3. Enjoy!
 
 ## Rules
 
