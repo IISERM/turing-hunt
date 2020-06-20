@@ -31,7 +31,7 @@ Turing Club hopes to make this an annual event, much like other Treasure Hunts, 
 
 ### Windows
 
-1. Download the app from 
+1. Download the app from <https://github.com/IISERM/turing-hunt/releases/download/v1.0/Turing_Hunt_Windows.exe>
 2. Double-Click the downloaded file to run it
    - In case Windows Defender warns about an unknown program running, do not worry. Simply click `advanced options` and then `Run anyway`
 3. Enjoy!
@@ -56,13 +56,13 @@ Turing Club hopes to make this an annual event, much like other Treasure Hunts, 
 
 | Version | Link |
 | ------- | ---- |
-| 27      | h    |
-| 28      | h    |
-| 29      | h    |
+| 27      | <https://github.com/IISERM/turing-hunt/releases/download/v1.0/Turing_Hunt_2_27> |
+| 28      | <https://github.com/IISERM/turing-hunt/releases/download/v1.0/Turing_Hunt_2_28> |
+| 29      | <https://github.com/IISERM/turing-hunt/releases/download/v1.0/Turing_Hunt_2_29> |
 
 ### MacOS
 
-1. Download the app from here
+1. Download the app from <https://github.com/IISERM/turing-hunt/releases/download/v1.0/Turing_Hunt_MacOS>
 2. Double Click to run OR `cd path/to/file` and then `./filename`
 3. Enjoy!
 
@@ -77,8 +77,6 @@ Turing Club hopes to make this an annual event, much like other Treasure Hunts, 
   - Use `map` to open up the map. _Note that as you collect more items, new locations open up!_
   - Use `pocket` to view a list of items collected. _This is very helpful if you get stuck._
 - Some clues have an image component or a file that needs to be copied somewhere.
-- At the end of the game, your time and roll number will be registered in a google sheet. This will require an internet connection. This is obviously not mandatory if you don't mind losing an opportunity to have tea.
-
 
 
 <a id="tc1">1</a>: **Terms and conditions apply**
