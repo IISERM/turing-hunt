@@ -52,6 +52,7 @@ Turing Club hopes to make this an annual event, much like other Treasure Hunts, 
    - In Ubuntu, run `sudo apt install python3-tk -y`
    - _Technically, you just need `fontconfig-config` and `libxcb1`, but it is easier to just install python3-tk.
 4. Idk if double clicking the file will work or not, but you can always run it from the command line. `cd path/to/file` and then `./filename`.
+   - You may need to also ```sudo chmod +x ./filename``` before running
 5. And FINALLY, Enjoy!
 
 #### Download links -
