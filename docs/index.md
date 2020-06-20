@@ -29,6 +29,8 @@ Turing Club hopes to make this an annual event, much like other Treasure Hunts, 
 
 ## Download the game now
 
+**PLEASE NOTE THAT THERE IS A BUG IN T POINT. DO NOT CHECK OUT THE "RED SEDAN" CLUE. IT IS NOT NECESSARY FOR GAMEPLAY**
+
 ### Windows
 
 1. Download the app from <https://github.com/IISERM/turing-hunt/releases/download/v1.0/Turing_Hunt_Windows.exe>
@@ -54,8 +56,8 @@ Turing Club hopes to make this an annual event, much like other Treasure Hunts, 
 
 #### Download links -
 
-| Version | Link |
-| ------- | ---- |
+| Version | Link                                                                            |
+| ------- | ------------------------------------------------------------------------------- |
 | 27      | <https://github.com/IISERM/turing-hunt/releases/download/v1.0/Turing_Hunt_2_27> |
 | 28      | <https://github.com/IISERM/turing-hunt/releases/download/v1.0/Turing_Hunt_2_28> |
 | 29      | <https://github.com/IISERM/turing-hunt/releases/download/v1.0/Turing_Hunt_2_29> |
