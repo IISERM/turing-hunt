@@ -1,4 +1,4 @@
-# Turing Hunt
+# Turing Hunt 2020
 
 Roam the halls and roads of the campus without worrying about social distancing, ticket costs and endsems, looking for clues and solving puzzles to get a chance[¹](#tc1) to have tea with eminent scientists!
 
@@ -27,9 +27,18 @@ Turing Club hopes to make this an annual event, much like other Treasure Hunts, 
 - Murder Mystery Team
 - Test Image by Maithily
 
+## Known Bugs
+
+- T Point Red Sedan clue does not work, doesn't affect gameplay
+- Rotunda and Calendar clues only take numbers! No spaces too!
+- VH Terrace clue does not work, doesn't affect gameplay
+
 ## Download the game now
 
-**PLEASE NOTE THAT THERE IS A BUG IN T POINT. DO NOT CHECK OUT THE "RED SEDAN" CLUE. IT IS NOT NECESSARY FOR GAMEPLAY**
+### Source code 
+
+Can be found at <https://github.com/IISERM/turing-hunt-source>
+Instructions on same page.
 
 ### Windows
 
